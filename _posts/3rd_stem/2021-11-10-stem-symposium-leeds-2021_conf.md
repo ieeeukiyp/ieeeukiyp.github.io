@@ -2,7 +2,7 @@
 title: 'Third IEEE UK&I YP Postgrad STEM Research Symposium'
 date: 2021-11-10 10:00
 permalink: /3rd_stem/
-categories: upcoming-events
+categories: previous-events
 tags:
 sidebar:
   - text: '[REGISTER NOW](https://docs.google.com/forms/d/14a5HUKipHQ8JKVHjiPbfj4F5vDLkF4p--VzIGqOMnRU/viewform){: .btn .btn--success}'
