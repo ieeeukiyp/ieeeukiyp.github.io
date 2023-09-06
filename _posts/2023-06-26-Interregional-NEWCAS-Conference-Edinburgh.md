@@ -1,7 +1,7 @@
 ---
 title: 'Interregional NEWCAS Conference, Edinburgh, 2023'
 date: 2023-03-10 20:14
-category: upcoming-events
+category: previous-events
 tags:
   - Edinburgh
   - conference
