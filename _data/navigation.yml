@@ -41,3 +41,7 @@ stem_symp_sidebar_2021:
     url: /3rd_stem/schedule/
   - title: 'Committee'
     url: /3rd_stem/committee/
+
+stem_symp_sidebar_2023:
+  - title: 'Symposium'
+    url: /4th_stem/
