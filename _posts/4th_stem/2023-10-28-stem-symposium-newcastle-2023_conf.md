@@ -43,7 +43,7 @@ The event focuses on research presentations, posters, keynote, panel discussion,
 
 # Keynote and workshop:
 
-Learn from notable experts as they deliver keynote talks on various STEM topics.The symposium will also offers workshops on a range of topics.
+Learn from notable experts as they deliver keynote talks on various STEM topics. The symposium will also offers workshops on a range of topics.
 
 # Presentations
 
