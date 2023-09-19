@@ -16,7 +16,7 @@ _Exploring the multidisciplinary landscape of technology_
 
 Saturday, 18<sup>th</sup> November 2023
 
-The IEEE Young Professionals, UK & Ireland Section, is hosting a hybrid postgraduate STEM research symposium.
+The IEEE Young Professionals, UK & Ireland Section, is hosting a postgraduate STEM research symposium.
 
 {% include gallery id="sponsors" layout="half" %}
 
