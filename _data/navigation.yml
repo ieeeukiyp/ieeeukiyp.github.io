@@ -45,3 +45,5 @@ stem_symp_sidebar_2021:
 stem_symp_sidebar_2023:
   - title: 'Symposium'
     url: /4th_stem/
+  - title: 'Committee'
+    url: /4th_stem/committee/
