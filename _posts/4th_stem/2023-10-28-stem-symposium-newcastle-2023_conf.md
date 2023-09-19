@@ -34,7 +34,9 @@ The symposium is open to professionals and students across the country and beyon
 
 # SUBMIT YOUR ABSTRACT
 
-Abstract submission will be through Microsoft CMT, and **submission link will be made available soon.**
+Abstract submission will be through Microsoft CMT, and **submission link will be made available soon.** 
+
+Retrieve abstract submission guidelines [here](https://drive.google.com/file/d/1ctflC4W_KfepPI4PECv0HUEg5WDQlovz/view?usp=sharing). LaTeX template for abstract submission is available [here](https://drive.google.com/file/d/1DHgEZGe_F1CU2sMRwGY4wN5kkzzG344I/view?usp=sharing)
 
 Non presenting participants are also invited to register. **Registration is required in order to receive joining instructions.** Online registration will open soon.
 
