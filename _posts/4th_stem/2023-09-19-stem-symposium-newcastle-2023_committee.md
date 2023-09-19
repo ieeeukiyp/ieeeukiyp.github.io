@@ -12,7 +12,7 @@ sponsors:
     alt: 'IEEE UK & Ireland (UK&I) Young Professionals'
 ---
 
-Wednesday, 18<sup>th</sup> November 2023
+Saturday, 18<sup>th</sup> November 2023
 
 ### Rajitha De Silva
 
