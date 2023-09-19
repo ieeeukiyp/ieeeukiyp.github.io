@@ -1,6 +1,6 @@
 ---
 title: 'Fourth IEEE UK&I YP Postgrad STEM Research Symposium - Committee'
-date: 2023-19-09 10:00
+date: 2023-09-19 10:00
 permalink: /4th_stem/committee/
 categories: support
 tags:
