@@ -25,9 +25,9 @@ This **FREE ONE DAY** symposium is an opportunity for early career STEM research
 {% include video id="7uQ2C0_H8d8" provider="youtube" %}
 _The first symposium held at the University of Chester in 2018_
 
-The symposium is open to professionals and students across the country and beyond and we are now accepting submissions of 1-page abstracts of research work for oral presentations. No full paper submission is required. **The deadline for abstract submission has been extended to 31st October 2023 and free registration is open until the same date. There is a chance to win research quality and best presentation awards (4 awards in all).**
+The symposium is open to professionals and students across the country and beyond and we are now accepting submissions of 1-page abstracts of research work for oral presentations. No full paper submission is required. **The deadline for abstract submission has been extended to 31st October 2023 and free registration is open until the same date. There is a chance to win research quality and best presentation awards.**
 
-**See symposoium call for paper below.**
+**See symposium call for paper below.**
 <figure>
 	<img src="/assets/images/4th_stem/4thstemcfp.jpg">
 </figure>
@@ -44,7 +44,7 @@ _The second symposium held at the University of Leeds in 2019_
 
 # Symposium Features
 
-The event focuses on research presentations, posters, keynote, panel discussion, workshop, awards, and a networking event with Industry participation.
+The event focuses on research presentations, keynote, panel discussion, workshop, awards, and a networking event with Industry participation.
 
 # Keynote and workshop:
 
@@ -52,7 +52,7 @@ Learn from notable experts as they deliver keynote talks on various STEM topics.
 
 # Presentations
 
-Participants are invited to submit abstracts of their research for oral/poster presentation at the symposium. The submissions will be classified and presented through different tracks. This is not a peer reviewed conference and full paper submission is not required -- the idea here is to give participants the opportunity to discuss their research before an unfamiliar audience and get feedback which will help them improve their work for subsequent presentations. A poster session will allow participants to interact with different researchers on their displayed research topics.
+Participants are invited to submit abstracts of their research for oral presentation at the symposium. The submissions will be classified and presented through different tracks. This is not a peer reviewed conference and full paper submission is not required -- the idea here is to give participants the opportunity to discuss their research before an unfamiliar audience and get feedback which will help them improve their work for subsequent presentations.
 
 {% include video id="IpwV_UNs9BE" provider="youtube" %}
 _What participants said about the first symposium_
@@ -60,4 +60,4 @@ _What participants said about the first symposium_
 
 # Awards
 
-The IEEE UK & Ireland Young Professionals is sponsoring Judges' and Audience's Choice awards for "Best Oral Presentation" and "Best Poster Presentation". Each award is up to £100
+The IEEE UK & Ireland Young Professionals is sponsoring Judges' and Audience's Choice awards for "Best Oral Presentation". Each award is up to £100
