@@ -5,6 +5,7 @@ permalink: /4th_stem/committee/
 categories: support
 tags:
 sidebar:
+  - text: '[SUBMIT ABSTRACT](https://cmt3.research.microsoft.com/YPSTEM2023/){: .btn .btn--success}'
     nav: 'stem_symp_sidebar_2023'
 sponsors:
   - url: https://ieeeukiyp.org/
