@@ -5,6 +5,7 @@ permalink: /4th_stem/
 categories: upcoming-events
 tags:
 sidebar:
+  - text: '[SUBMIT ABSTRACT](https://cmt3.research.microsoft.com/YPSTEM2023/){: .btn .btn--success}'
       nav: 'stem_symp_sidebar_2023'
 sponsors:
   - url: https://ieeeukiyp.org/
@@ -34,7 +35,7 @@ The symposium is open to professionals and students across the country and beyon
 
 # SUBMIT YOUR ABSTRACT
 
-Abstract submission will be through Microsoft CMT, and **submission link will be made available soon.** 
+Abstract submission is through Microsoft CMT. **Submit your abstract [here](https://cmt3.research.microsoft.com/YPSTEM2023/).** 
 
 Retrieve abstract submission guidelines [here](https://drive.google.com/file/d/1ctflC4W_KfepPI4PECv0HUEg5WDQlovz/view?usp=sharing). LaTeX template for abstract submission is available [here](https://drive.google.com/file/d/1DHgEZGe_F1CU2sMRwGY4wN5kkzzG344I/view?usp=sharing)
 
