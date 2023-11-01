@@ -41,6 +41,7 @@ Abstract submission is through Microsoft CMT. **Submit your abstract [here](http
 Retrieve abstract submission guidelines [here](https://drive.google.com/file/d/1ctflC4W_KfepPI4PECv0HUEg5WDQlovz/view?usp=sharing). LaTeX template for abstract submission is available [here](https://drive.google.com/file/d/1DHgEZGe_F1CU2sMRwGY4wN5kkzzG344I/view?usp=sharing)
 
 Non presenting participants are also invited to register. **Registration is required in order to receive joining instructions.**
+
 [REGISTER NOW](https://forms.gle/GZ946LrZcT1bFPPu9){: .btn .btn--success}
 
 {% include video id="VpRnFgfOR8w " provider="youtube" %}
