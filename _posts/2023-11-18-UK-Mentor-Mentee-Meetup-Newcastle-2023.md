@@ -5,7 +5,7 @@ permalink: /mm23/
 category: upcoming-events
 tags:
   - Newcastle
-  - meetup
+  - Meetup
 sidebar:
   nav: 'home_sidebar'
 ---
