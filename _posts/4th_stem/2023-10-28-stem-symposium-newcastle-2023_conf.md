@@ -31,7 +31,7 @@ The symposium is open to professionals and students across the country and beyon
 
 **See symposium call for papers below.**
 <figure>
-	<img src="/assets/images/4th_stem/4thstemcfp.jpg">
+	<img src="/assets/images/4th_stem/4thstemcfp_x.jpg">
 </figure>
 
 # SUBMIT YOUR ABSTRACT
