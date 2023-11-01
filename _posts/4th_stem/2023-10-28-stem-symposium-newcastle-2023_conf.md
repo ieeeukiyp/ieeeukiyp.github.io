@@ -6,6 +6,7 @@ categories: upcoming-events
 tags:
 sidebar:
   - text: '[SUBMIT ABSTRACT](https://cmt3.research.microsoft.com/YPSTEM2023/){: .btn .btn--success}'
+  - text: '[REGISTER NOW](https://forms.gle/GZ946LrZcT1bFPPu9){: .btn .btn--success}'
     nav: 'stem_symp_sidebar_2023'
 sponsors:
   - url: https://ieeeukiyp.org/
@@ -26,7 +27,7 @@ This **FREE ONE DAY** symposium is an opportunity for early career STEM research
 {% include video id="7uQ2C0_H8d8" provider="youtube" %}
 _The first symposium held at the University of Chester in 2018_
 
-The symposium is open to professionals and students across the country and beyond and we are now accepting submissions of 1-page abstracts of research work for oral presentations. No full paper submission is required. **The deadline for abstract submission has been extended to 31st October 2023 and free registration is open until the same date. There is a chance to win research quality and best presentation awards.**
+The symposium is open to professionals and students across the country and beyond and we are now accepting submissions of 1-page abstracts of research work for oral presentations. No full paper submission is required. **The deadline for abstract submission has been extended to 5th November 2023 and free registration is now open. There is a chance to win an award.**
 
 **See symposium call for papers below.**
 <figure>
@@ -39,8 +40,8 @@ Abstract submission is through Microsoft CMT. **Submit your abstract [here](http
 
 Retrieve abstract submission guidelines [here](https://drive.google.com/file/d/1ctflC4W_KfepPI4PECv0HUEg5WDQlovz/view?usp=sharing). LaTeX template for abstract submission is available [here](https://drive.google.com/file/d/1DHgEZGe_F1CU2sMRwGY4wN5kkzzG344I/view?usp=sharing)
 
-Non presenting participants are also invited to register. **Registration is required in order to receive joining instructions.** Online registration will open soon.
-
+Non presenting participants are also invited to register. **Registration is required in order to receive joining instructions.**
+[REGISTER NOW](https://forms.gle/GZ946LrZcT1bFPPu9){: .btn .btn--success}
 
 {% include video id="VpRnFgfOR8w " provider="youtube" %}
 _The second symposium held at the University of Leeds in 2019_
