@@ -20,7 +20,7 @@ At the Meetup, you'll have the chance to:
 - Attend fun and informative activities.
 
 
-The UK and Ireland Edition of [IEEE Mentoring meet program](https://cmte.ieee.org/mentoring-meet/) is held in Northumbria University Newcastle on 18th November 2023. The event is held on the same day as [IEEE UK and Ireland Young Professionals PGR STEM Symposium](https://ieeeukiyp.org/4th_stem/) .
+The UK and Ireland Edition of [IEEE Mentoring meet program](https://cmte.ieee.org/mentoring-meet/) will hold in Northumbria University Newcastle on 18th November 2023 from 2:30 PM to 4 PM (GMT). The event is held on the same day as [IEEE UK and Ireland Young Professionals PGR STEM Symposium](https://ieeeukiyp.org/4th_stem/).
 
 Please follow the below instructions to register for this event as a mentor or mentee.
 - Visit the event [registration page](https://forms.gle/GZ946LrZcT1bFPPu9) to complete the registration form.
