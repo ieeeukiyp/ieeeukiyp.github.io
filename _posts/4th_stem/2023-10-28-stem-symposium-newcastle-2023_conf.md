@@ -2,7 +2,7 @@
 title: 'Fourth IEEE UK&I YP Postgrad STEM Research Symposium'
 date: 2023-09-09 10:00
 permalink: /4th_stem/
-categories: upcoming-events
+categories: previous-events
 tags:
 sidebar:
   - text: '[SUBMIT ABSTRACT](https://cmt3.research.microsoft.com/YPSTEM2023/){: .btn .btn--success}'
