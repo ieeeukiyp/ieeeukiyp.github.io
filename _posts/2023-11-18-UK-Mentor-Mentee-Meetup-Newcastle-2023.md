@@ -2,7 +2,7 @@
 title: 'IEEE UK Mentor-Mentee Meetup 2023, Newcastle'
 date: 2023-11-01 20:14
 permalink: /mm23/
-category: upcoming-events
+category: previous-events
 tags:
   - Newcastle
   - Meetup
