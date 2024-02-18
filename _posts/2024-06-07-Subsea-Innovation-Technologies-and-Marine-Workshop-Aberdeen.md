@@ -25,5 +25,5 @@ If you are interested to submit a poster or paper for the Workshop, please make 
 Submit your paper [here](https://epapers2.org/newcas2023/ESR/login.php?epsc=YP28$) -->
 
 <figure>
-	<img src="./assets/images/2024_isitmw/flyer_isitmw_2024.jpg">
+	<img src="/assets/images/2024_isitmw/flyer_isitmw_2024.jpg">
 </figure>
