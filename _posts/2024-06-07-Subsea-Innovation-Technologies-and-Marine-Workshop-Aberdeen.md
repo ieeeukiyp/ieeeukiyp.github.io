@@ -36,7 +36,8 @@ Abstract submission is through Microsoft CMT. Submit your abstract [here](https:
 
 ## Contact Us
 :email: ieeeyp.uki@gmail.com
-Facebook: [ieeeuki.yp/](https://www.facebook.com/ieeeuki.yp/)
+
+Facebook: [ieeeuki.yp](https://www.facebook.com/ieeeuki.yp/)
 
 <figure>
 	<img src="/assets/images/2024_isitmw/IEEE_Flyer_SITAM.jpg">
