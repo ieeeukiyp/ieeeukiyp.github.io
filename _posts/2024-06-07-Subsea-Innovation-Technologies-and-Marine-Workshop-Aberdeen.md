@@ -13,17 +13,34 @@ The IEEE Subsea Innovation Technologies and Marine Workshop will be held in Aber
 
 IEEE UK & Ireland (UK&I) Young Professionals is collaborating with IEEE Oceanic Engineering Society to organise this workshop.
 
-## Submission Process
+## Workshop Features
+**The event focuses on keynote, panel discussion, workshop, research presentations, awards, and a networking event with Industry participation.**
 
-We invite abstract in a range of topics for the student poster session.
+### Keynote and workshop: Learn from notable experts as they deliver keynote talks on various subsea technologies topics.
 
-***Announcement:*** *The submission process for posters and papers for the workshop will be announced soon. Stay tuned for updates!*
+### Presentations
 
-<!-- To be update
-If you are interested to submit a poster or paper for the Workshop, please make your paper ready for submission by 7 Ju neMarch 2023.
+Participants are invited to submit abstracts of their research for oral and poster presentation at the workshop. The submissions will be classified and presented through different tracks. This is not a peer reviewed conference and full paper submission is not required – the idea here is to give participants the opportunity to meet other experts and discuss the work.
 
-Submit your paper [here](https://epapers2.org/newcas2023/ESR/login.php?epsc=YP28$) -->
+[Prepare & Submit TWO-Page Abstract for Oral Presentation](https://ieee-nems.org/2020/new-two-page-abstract-submission/)
+
+* Authors should submit an abstract (2 pages) for review by 22nd April to be considered for an ORAL presentation.
+* Accepted 2-page abstracts will NOT be published in Xplore nor indexed by other databases.
+* After reviews, 2-page abstracts could be recommended for POSTER presentations based upon the review scores.
+
+‘NEW’ ONE-Page Late-News Abstract Submission (Poster Presentation)
+Click below to **submit 1-page abstracts** for **POSTER** presentations:
+[Prepare & Submit ONE-Page Abstract for Poster Presentation](https://ieee-nems.org/2020/new-one-page-abstract-submission/)
+
+* Authors should submit an abstract (1 page) for review by 22nd April to be considered for an POSTER presentation.
+* Accepted 1-page abstracts will NOT be published in Xplore nor indexed by other databases.
+
+## SUBMIT YOUR ABSTRACT
+
+Abstract submission is through Microsoft CMT. Submit your abstract [here](https://cmt3.research.microsoft.com/SITW'24).
+
+*Non presenting participants are also invited to register. **Registration is required in order to receive joining instructions.** The link for the registration will be open soon.*
 
 <figure>
-	<img src="/assets/images/2024_isitmw/flyer_isitmw_2024.jpg">
+	<img src="/assets/images/2024_isitmw/IEEE_Flyer_SITAM.jpg">
 </figure>
