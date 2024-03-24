@@ -16,24 +16,17 @@ IEEE UK & Ireland (UK&I) Young Professionals is collaborating with IEEE Oceanic 
 ## Workshop Features
 **The event focuses on keynote, panel discussion, workshop, research presentations, awards, and a networking event with Industry participation.**
 
-### Keynote and workshop: Learn from notable experts as they deliver keynote talks on various subsea technologies topics.
+* **Keynote and Workshop:** Learn from notable experts as they deliver keynote talks on various subsea technologies topics.
 
-### Presentations
+* **Presentations:** Participants are invited to submit abstracts of their research for oral presentation at the workshop. The submissions will be classified and presented through different tracks. This is not a peer reviewed conference and full paper submission is not required – the idea here is to give participants the opportunity to meet other experts and discuss the work.
 
-Participants are invited to submit abstracts of their research for oral and poster presentation at the workshop. The submissions will be classified and presented through different tracks. This is not a peer reviewed conference and full paper submission is not required – the idea here is to give participants the opportunity to meet other experts and discuss the work.
+  * Authors should submit an abstract (2 pages) for review by 22nd April to be considered for an ORAL presentation.
+  * Accepted 2-page abstracts will NOT be published in Xplore nor indexed by other databases.
+  * After reviews, 2-page abstracts could be recommended for POSTER presentations based upon the review scores.
 
-[Prepare & Submit TWO-Page Abstract for Oral Presentation](https://ieee-nems.org/2020/new-two-page-abstract-submission/)
-
-* Authors should submit an abstract (2 pages) for review by 22nd April to be considered for an ORAL presentation.
-* Accepted 2-page abstracts will NOT be published in Xplore nor indexed by other databases.
-* After reviews, 2-page abstracts could be recommended for POSTER presentations based upon the review scores.
-
-‘NEW’ ONE-Page Late-News Abstract Submission (Poster Presentation)
-Click below to **submit 1-page abstracts** for **POSTER** presentations:
-[Prepare & Submit ONE-Page Abstract for Poster Presentation](https://ieee-nems.org/2020/new-one-page-abstract-submission/)
-
-* Authors should submit an abstract (1 page) for review by 22nd April to be considered for an POSTER presentation.
-* Accepted 1-page abstracts will NOT be published in Xplore nor indexed by other databases.
+* **Poster Session:** Participants are invited to submit abstracts of their research for oral presentation at the workshop.
+  * Authors should submit an abstract (1 page) for review by 22nd April to be considered for a POSTER presentation.
+  * Accepted 1-page abstracts will NOT be published in Xplore nor indexed by other databases.
 
 ## SUBMIT YOUR ABSTRACT
 
