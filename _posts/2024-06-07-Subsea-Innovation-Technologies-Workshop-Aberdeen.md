@@ -34,9 +34,6 @@ Abstract submission is through Microsoft CMT. Submit your abstract [here](https:
 
 *Non presenting participants are also invited to register. **Registration is required in order to receive joining instructions.** The link for the registration will be open soon.*
 
-## Contact Us
-:email: Email: [ieeeyp.uki@gmail.com](mailto:ieeeyp.uki@gmail.com) | Facebook: [ieeeuki.yp](https://www.facebook.com/ieeeuki.yp/)
-
 <figure>
 	<img src="/assets/images/2024_isitmw/IEEE_Flyer_SITAM.jpg">
 </figure>
