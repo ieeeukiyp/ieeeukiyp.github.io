@@ -1,5 +1,5 @@
 ---
-title: 'IEEE Subsea Innovation Technologies and Marine Workshop, Aberdeen, 2024'
+title: 'IEEE Subsea Innovation Technologies Workshop, Aberdeen, 2024'
 date: 2024-02-18 03:20
 category: upcoming-events
 tags:
@@ -9,7 +9,7 @@ sidebar:
   nav: 'home_sidebar'
 ---
 
-The IEEE Subsea Innovation Technologies and Marine Workshop will be held in Aberdeen, Scotland, on June 7, 2024. 
+The IEEE Subsea Innovation Technologies Workshop will be held in Aberdeen, Scotland, on June 7, 2024. 
 
 IEEE UK & Ireland (UK&I) Young Professionals is collaborating with IEEE Oceanic Engineering Society to organise this workshop.
 
@@ -33,6 +33,10 @@ IEEE UK & Ireland (UK&I) Young Professionals is collaborating with IEEE Oceanic 
 Abstract submission is through Microsoft CMT. Submit your abstract [here](https://cmt3.research.microsoft.com/SITW'24).
 
 *Non presenting participants are also invited to register. **Registration is required in order to receive joining instructions.** The link for the registration will be open soon.*
+
+## Contact Us
+:email: ieeeyp.uki@gmail.com
+Facebook: [ieeeuki.yp/](https://www.facebook.com/ieeeuki.yp/)
 
 <figure>
 	<img src="/assets/images/2024_isitmw/IEEE_Flyer_SITAM.jpg">
