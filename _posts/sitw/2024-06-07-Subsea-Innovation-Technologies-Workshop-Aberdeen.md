@@ -8,7 +8,7 @@ tags:
   - conference
 sidebar:
   - text: '[SUBMIT ABSTRACT](https://cmt3.research.microsoft.com/IEEESITW2024/){: .btn .btn--success}'
-    nav: 'sitw_sidebar_2023'
+    nav: 'sitw_sidebar_2024'
 sponsors:
   - url: https://ieeeukiyp.org/
     image_path: /assets/images/IEEE_UK-Ireland_YP_Logo_RGB_Horz-1.png
