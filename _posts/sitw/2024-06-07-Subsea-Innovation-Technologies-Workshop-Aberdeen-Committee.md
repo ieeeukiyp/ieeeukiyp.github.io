@@ -5,7 +5,8 @@ permalink: /SITW2024/committee/
 categories: support
 tags:
 sidebar:
-    nav: 'sitw_sidebar_2024'
+  - text: '[SUBMIT ABSTRACT](https://cmt3.research.microsoft.com/IEEESITW2024/){: .btn .btn--success}'
+    nav: 'sitw_sidebar_2023'
 sponsors:
   - url: https://ieeeukiyp.org/
     image_path: /assets/images/IEEE_UK-Ireland_YP_Logo_RGB_Horz-1.png
