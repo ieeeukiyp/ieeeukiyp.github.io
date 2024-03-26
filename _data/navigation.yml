@@ -47,3 +47,9 @@ stem_symp_sidebar_2023:
     url: /4th_stem/
   - title: 'Committee'
     url: /4th_stem/committee/
+
+sitw_sidebar_2024:
+  - title: 'Workshop'
+    url: /SITW2024/
+  - title: 'Committee'
+    url: /SITW2024/committee/
