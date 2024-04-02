@@ -30,7 +30,7 @@ IEEE UK & Ireland (UK&I) Young Professionals is collaborating with IEEE Oceanic 
   * Accepted 2-page abstracts will NOT be published in Xplore nor indexed by other databases.
   * After reviews, 2-page abstracts could be recommended for POSTER presentations based upon the review scores.
 
-* **Poster Session:** Participants are invited to submit abstracts of their research for oral presentation at the workshop.
+* **Poster Session:** Participants are invited to submit abstracts of their research for poster presentation at the workshop.
   * Authors should submit an abstract (1 page) for review by 22nd April to be considered for a POSTER presentation.
   * Accepted 1-page abstracts will NOT be published in Xplore nor indexed by other databases.
 
