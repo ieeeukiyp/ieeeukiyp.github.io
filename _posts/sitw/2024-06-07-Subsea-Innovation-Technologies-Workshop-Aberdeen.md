@@ -26,12 +26,12 @@ IEEE UK & Ireland (UK&I) Young Professionals is collaborating with IEEE Oceanic 
 
 * **Presentations:** Participants are invited to submit abstracts of their research for oral presentation at the workshop. The submissions will be classified and presented through different tracks. This is not a peer reviewed conference and full paper submission is not required – the idea here is to give participants the opportunity to meet other experts and discuss the work.
 
-  * Authors should submit an abstract (2 pages) for review by 22nd April to be considered for an ORAL presentation.
+  * Authors should submit an abstract (2 pages) for review by 20th May to be considered for an ORAL presentation.
   * Accepted 2-page abstracts will NOT be published in Xplore nor indexed by other databases.
   * After reviews, 2-page abstracts could be recommended for POSTER presentations based upon the review scores.
 
 * **Poster Session:** Participants are invited to submit abstracts of their research for poster presentation at the workshop.
-  * Authors should submit an abstract (1 page) for review by 22nd April to be considered for a POSTER presentation.
+  * Authors should submit an abstract (1 page) for review by 20th May to be considered for a POSTER presentation.
   * Accepted 1-page abstracts will NOT be published in Xplore nor indexed by other databases.
 
 ## SUBMIT YOUR ABSTRACT
