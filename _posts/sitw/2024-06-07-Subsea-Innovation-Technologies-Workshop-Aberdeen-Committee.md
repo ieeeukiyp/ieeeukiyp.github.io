@@ -13,49 +13,19 @@ sponsors:
     alt: 'IEEE UK & Ireland (UK&I) Young Professionals'
 ---
 
-7<sup>th</sup> June 2024
+The IEEE Subsea Innovation Technologies Workshop will be held in Aberdeen, Scotland, on June 7, 2024.
 
-### Dr Nazila Fough
+IEEE UK & Ireland (UK&I) Young Professionals is collaborating with IEEE Oceanic Engineering Society to organise this workshop.
 
-<figure>
-	<img src="/assets/images/4th_stem/committee/Nazila Fough.jpg" style="max-width:150px">
-</figure>
-Robert Gordon University, Volunteer, Chair, IEEE UK & Ireland Young Professionals
-
-### Rajitha De Silva
-
-<figure>
-	<img src="/assets/images/4th_stem/committee/Rajitha De Silva.jpeg" style="max-width:150px">
-</figure>
-Volunteer,  Secretary, IEEE UK & Ireland Young Professionals
-
-### Dr Othman Yonnus
-
-<figure>
-	<img src="/assets/images/4th_stem/committee/Othman Yonnus.jpg" style="max-width:150px">
-</figure>
-Volunteer, England Rep, IEEE UK & Ireland Young Professionals
-
-### Dr Farid Mouawad
-
-<figure>
-	<img src="/assets/images/4th_stem/committee/Farid Mouawad.jpg" style="max-width:150px">
-</figure>
-Volunteer, Vice-Chair, IEEE UK & Ireland Young Professionals
-
-### Koushik Kumar Nundy  
-
-<figure>
-	<img src="/assets/images/4th_stem/committee/Koushik Nundy.JPG" style="max-width:150px">
-</figure>
-Volunteer, IEEE UK & Ireland Young Professionals
-
-### Dr Opeyemi Ajibola
-
-<figure>
-	<img src="/assets/images/4th_stem/committee/Opeyemi Ajibola.JPG" style="max-width:150px">
-</figure>
-Volunteer, IEEE UK & Ireland Young Professionals
+The event committee for this workshop includes:
+- Nazila Fough (Robert Gordon University, IEEE UK & Ireland Young Professionals Chair)
+- Prof Radhakrishna Prabhu (IEEE UKI Oceanic Engineering Chair)
+- Dr Rosslyn Shank (Robert Gordon University)
+- Dr Nauman Baig (Robert Gordon University) 
+- Dr Adrian Rendon Nava (Robert Gordon University)
+- Dr Zonghua Liu (Robert Gordon University)
+- Dr Somasundar Kannan (Robert Gordon University)
+- Dr Opeyemi Ajibola (IEEE UK & Ireland Young Professionals Webmaster)
 
 
 
