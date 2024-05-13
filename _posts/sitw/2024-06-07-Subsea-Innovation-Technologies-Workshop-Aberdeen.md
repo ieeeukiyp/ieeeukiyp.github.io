@@ -7,6 +7,7 @@ tags:
   - Aberdeen
   - conference
 sidebar:
+  - text: '[REGISTER](https://events.vtools.ieee.org/event/register/352302/){: .btn .btn--success}'
   - text: '[SUBMIT ABSTRACT](https://cmt3.research.microsoft.com/IEEESITW2024/){: .btn .btn--success}'
     nav: 'sitw_sidebar_2024'
 sponsors:
@@ -38,7 +39,7 @@ IEEE UK & Ireland (UK&I) Young Professionals is collaborating with IEEE Oceanic 
 
 Abstract submission is through Microsoft CMT. Submit your abstract [here](https://cmt3.research.microsoft.com/IEEESITW2024/).
 
-*Non presenting participants are also invited to register. **Registration is required in order to receive joining instructions.** The link for the registration will be open soon.*
+*Non presenting participants are also invited to [register](https://events.vtools.ieee.org/event/register/352302/). **Registration is required in order to receive joining instructions.***
 
 ## Contact Us
 :email: Email: [ieeeyp.uki@gmail.com](mailto:ieeeyp.uki@gmail.com) | Facebook: [ieeeuki.yp](https://www.facebook.com/ieeeuki.yp/)
