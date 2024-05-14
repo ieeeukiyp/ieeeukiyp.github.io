@@ -39,6 +39,8 @@ IEEE UK & Ireland (UK&I) Young Professionals is collaborating with IEEE Oceanic 
 
 Abstract submission is through Microsoft CMT. Submit your abstract [here](https://cmt3.research.microsoft.com/IEEESITW2024/).
 
+## REGISTRATION
+
 *Non presenting participants are also invited to [register](https://events.vtools.ieee.org/event/register/352302/). **Registration is required in order to receive joining instructions.***
 
 ## Contact Us
