@@ -18,7 +18,7 @@ The IEEE Subsea Innovation Technologies Workshop will be held in Aberdeen, Scotl
 IEEE UK & Ireland (UK&I) Young Professionals is collaborating with IEEE Oceanic Engineering Society to organise this workshop.
 
 The event committee for this workshop includes:
-- Nazila Fough (Robert Gordon University, IEEE UK & Ireland Young Professionals Chair)
+- Dr Nazila Fough (Robert Gordon University, IEEE UK & Ireland Young Professionals Chair)
 - Prof Radhakrishna Prabhu (IEEE UKI Oceanic Engineering Chair)
 - Dr Rosslyn Shank (Robert Gordon University)
 - Dr Nauman Baig (Robert Gordon University) 
