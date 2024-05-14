@@ -5,6 +5,7 @@ permalink: /SITW2024/committee/
 categories: support
 tags:
 sidebar:
+  - text: '[REGISTER](https://events.vtools.ieee.org/event/register/352302/){: .btn .btn--success}'
   - text: '[SUBMIT ABSTRACT](https://cmt3.research.microsoft.com/IEEESITW2024/){: .btn .btn--success}'
     nav: 'sitw_sidebar_2024'
 sponsors:
