@@ -33,6 +33,8 @@ excerpt: "IEEE UK & Ireland (UK&I) Young Professionals Committee."
                 <img src="/assets/images/committee/Koushik Nundy.JPG" style="max-width:150px; height:150px">
             </figure>
         </td>
+    </tr>
+    <tr>
         <td>
             <p style="text-align: center;"><strong>Dr Opeyemi Ajibola</strong></p>
             <p style="text-align: center;"><strong>Webmaster</strong></p>
@@ -40,8 +42,6 @@ excerpt: "IEEE UK & Ireland (UK&I) Young Professionals Committee."
                 <img src="/assets/images/committee/Opeyemi.JPG" style="max-width:150px; height:150px">
             </figure>
         </td>
-    </tr>
-    <tr>
         <td>
             <p style="text-align: center;"><strong>Noel Gomes</strong></p>
             <p style="text-align: center;"><strong>Past Chair</strong></p>
@@ -63,6 +63,8 @@ excerpt: "IEEE UK & Ireland (UK&I) Young Professionals Committee."
                 <img src="/assets/images/committee/Othman.jpg" style="max-width:150px; height:150px">
             </figure>
         </td>
+    </tr>
+    <tr>
         <td>
             <p style="text-align: center;"><strong>Dr Daniel Martins</strong></p>
             <p style="text-align: center;"><strong>England Rep</strong></p>
@@ -77,8 +79,6 @@ excerpt: "IEEE UK & Ireland (UK&I) Young Professionals Committee."
                 <img src="/assets/images/committee/Peyman.jpg" style="max-width:150px; max-height:150px">
             </figure>
         </td>
-    </tr>
-    <tr>
         <td>
             <p style="text-align: center;"><strong>Faranak Fough</strong></p>
             <p style="text-align: center;"><strong>Scotland Rep</strong></p>
@@ -93,6 +93,8 @@ excerpt: "IEEE UK & Ireland (UK&I) Young Professionals Committee."
                 <img src="/assets/images/committee/Mehrnaz.jpg" style="max-width:150px; height:150px">
             </figure>
         </td>
+    </tr>
+    <tr>
         <td>
             <p style="text-align: center;"><strong>Dr Fengzhou Wang</strong></p>
             <p style="text-align: center;"><strong>Scotland Rep</strong></p>
@@ -106,6 +108,8 @@ excerpt: "IEEE UK & Ireland (UK&I) Young Professionals Committee."
             <figure>
                 <img src="/assets/images/committee/Imran.png" style="max-width:150px; height:150px">
             </figure>
+        </td>
+        <td>
         </td>
         <td>
         </td>
