@@ -5,8 +5,12 @@ main:
     url: /categories/upcoming-events/
   - title: 'Previous Events'
     url: /categories/previous-events/
-  - title: 'About us'
+  - title: 'UKIYP Committee '
+    url: /categories/ukiyp-committee/
+  - title: 'About Us'
     url: /about/
+  - title: 'Contact Us'
+    url: /contact/
 
 home_sidebar:
   - title: 'Home'
@@ -15,8 +19,12 @@ home_sidebar:
     url: /categories/upcoming-events/
   - title: 'Previous Events'
     url: /categories/previous-events/
-  - title: 'About us'
+  - title: 'UKIYP Committee '
+    url: /categories/ukiyp-committee/
+  - title: 'About Us'
     url: /about/
+  - title: 'Contact Us'
+    url: /contact/
 
 stem_symp_sidebar:
   - title: 'Symposium'
