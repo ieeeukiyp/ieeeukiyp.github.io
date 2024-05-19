@@ -6,7 +6,9 @@ excerpt: "IEEE UK & Ireland (UK&I) Young Professionals Committee."
 <table>
     <tr>
         <td>
-            <p style="text-align: center;"><strong>Dr Nazila Fough - Chair (Aberdeen)</strong></p>
+            <p style="text-align: center;"><strong>Dr Nazila Fough</strong></p>
+            <p style="text-align: center;"><strong>Chair (Aberdeen)</strong></p>
+            <p style="text-align: center;">(Aberdeen)</p>
             <figure>
                 <img src="/assets/images/committee/Nazila.jpg" style="max-width:150px; height:150px">
             </figure>
