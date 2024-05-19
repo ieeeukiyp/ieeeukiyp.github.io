@@ -18,13 +18,13 @@ excerpt: "IEEE UK & Ireland (UK&I) Young Professionals Committee."
             </figure>
         </td>
         <td>
-            <p style="text-align: center;"><strong>Rajitha De Silva - Secretary (Lincoln</strong></p>
+            <p style="text-align: center;"><strong>Rajitha De Silva - Secretary (Lincoln)</strong></p>
             <figure>
                 <img src="/assets/images/committee/Rajitha.jpg" style="max-width:150px; height:150px">
             </figure>
         </td>
         <td>
-            <p style="text-align: center;"><strong>Koushik Kumar Nundy - Treasurer (Dublin))strong></p>
+            <p style="text-align: center;"><strong>Koushik Kumar Nundy - Treasurer (Dublin)strong></p>
             <figure>
                 <img src="/assets/images/committee/Koushik Nundy.JPG" style="max-width:150px; height:150px">
             </figure>
@@ -32,7 +32,7 @@ excerpt: "IEEE UK & Ireland (UK&I) Young Professionals Committee."
         <td>
             <p style="text-align: center;"><strong>Dr Opeyemi Ajibola - Webmaster (Leeds)</strong></p>
             <figure>
-                <img src="/assets/images/committee/Opeyemi.jpg" style="max-width:150px; height:150px">
+                <img src="/assets/images/committee/Opeyemi.JPG" style="max-width:150px; height:150px">
             </figure>
         </td>
     </tr>
@@ -58,7 +58,7 @@ excerpt: "IEEE UK & Ireland (UK&I) Young Professionals Committee."
         <td>
             <p style="text-align: center;"><strong>Dr Daniel Martins - England Rep (Essex)</strong></p>
             <figure>
-                <img src="/assets/images/committee/Daniel.JPG" style="max-width:150px; height:150px">
+                <img src="/assets/images/committee/Daniel.jpg" style="max-width:150px; height:150px">
             </figure>
         </td>
         <td>
