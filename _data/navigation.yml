@@ -5,7 +5,7 @@ main:
     url: /categories/upcoming-events/
   - title: 'Previous Events'
     url: /categories/previous-events/
-  - title: 'Committee '
+  - title: 'Committee'
     url: /ukiyp-committee/
   - title: 'About Us'
     url: /about/
@@ -19,7 +19,7 @@ home_sidebar:
     url: /categories/upcoming-events/
   - title: 'Previous Events'
     url: /categories/previous-events/
-  - title: 'Committee '
+  - title: 'Committee'
     url: /ukiyp-committee/
   - title: 'About Us'
     url: /about/
