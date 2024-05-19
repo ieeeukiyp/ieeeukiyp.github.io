@@ -1,11 +1,8 @@
 ---
 permalink: /committee/
-title: "UK&I YP Committee"
+title: "IEEE UK & Ireland (UK&I) Young Professionals Committee"
 excerpt: "IEEE UK & Ireland (UK&I) Young Professionals Committee."
 ---
-
-## IEEE UK & Ireland (UK&I) Young Professionals Committee
-
 <table>
     <tr>
         <td>
