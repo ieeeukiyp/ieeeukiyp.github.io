@@ -24,7 +24,7 @@ excerpt: "IEEE UK & Ireland (UK&I) Young Professionals Committee."
             </figure>
         </td>
         <td>
-            <p style="text-align: center;"><strong>Koushik Kumar Nundy - Treasurer (Dublin)strong></p>
+            <p style="text-align: center;"><strong>Koushik Kumar Nundy - Treasurer (Dublin)</strong></p>
             <figure>
                 <img src="/assets/images/committee/Koushik Nundy.JPG" style="max-width:150px; height:150px">
             </figure>
