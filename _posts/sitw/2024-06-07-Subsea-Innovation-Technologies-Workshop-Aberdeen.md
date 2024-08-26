@@ -2,7 +2,7 @@
 title: 'IEEE Subsea Innovation Technologies Workshop, Aberdeen, 2024'
 date: 2024-03-24 03:20
 permalink: /SITW2024/
-category: upcoming-events
+category: previous-events
 tags:
   - Aberdeen
   - conference
