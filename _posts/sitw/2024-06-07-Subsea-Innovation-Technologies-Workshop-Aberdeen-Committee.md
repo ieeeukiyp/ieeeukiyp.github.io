@@ -26,6 +26,7 @@ The event committee for this workshop includes:
 - Dr Adrian Rendon Nava (Robert Gordon University)
 - Dr Zonghua Liu (Robert Gordon University)
 - Dr Somasundar Kannan (Robert Gordon University)
+- Dr Faisal M. Shah (Robert Gordon University)
 - Dr Opeyemi Ajibola (IEEE UK & Ireland Young Professionals Webmaster)
 
 
