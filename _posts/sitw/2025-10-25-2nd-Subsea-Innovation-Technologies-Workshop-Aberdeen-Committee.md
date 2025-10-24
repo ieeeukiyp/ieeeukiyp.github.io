@@ -5,9 +5,8 @@ permalink: /SITW2024/committee/
 categories: support
 tags:
 sidebar:
-  <!-- - text: '[REGISTER](https://events.vtools.ieee.org/event/register/352302/){: .btn .btn--success}'
-  - text: '[SUBMIT ABSTRACT](https://cmt3.research.microsoft.com/IEEESITW2024/){: .btn .btn--success}'
-    nav: 'sitw_sidebar_2024'-->
+  - text: '[REGISTER](){: .btn .btn--success}'
+    nav: 'sitw_sidebar_2024'
 sponsors:
   - url: https://ieeeukiyp.org/
     image_path: /assets/images/IEEE_UK-Ireland_YP_Logo_RGB_Horz-1.png
@@ -28,6 +27,7 @@ The event committee for this workshop includes:
 - Dr Somasundar Kannan (Robert Gordon University)
 - Dr Faisal M. Shah (Robert Gordon University)
 - Dr Opeyemi Ajibola (IEEE UK & Ireland Young Professionals Webmaster) -->
+
 
 
 
