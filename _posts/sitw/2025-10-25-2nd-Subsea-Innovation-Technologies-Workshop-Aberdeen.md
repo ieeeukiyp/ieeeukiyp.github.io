@@ -1,14 +1,13 @@
 ---
-title: 'IEEE Subsea Innovation Technologies Workshop, Aberdeen, 2024'
-date: 2024-03-24 03:20
-permalink: /SITW2024/
-category: previous-events
+title: '2nd IEEE Subsea Innovation Technologies Workshop, Aberdeen, 2026'
+date: 2025-10-25 00:31
+permalink: /SITW2026/
+category: upcoming-events
 tags:
   - Aberdeen
   - conference
 sidebar:
-  - text: '[REGISTER](https://events.vtools.ieee.org/event/register/352302/){: .btn .btn--success}'
-  - text: '[SUBMIT ABSTRACT](https://cmt3.research.microsoft.com/IEEESITW2024/){: .btn .btn--success}'
+  - text: '[REGISTER](){: .btn .btn--success}'
     nav: 'sitw_sidebar_2024'
 sponsors:
   - url: https://ieeeukiyp.org/
@@ -16,7 +15,7 @@ sponsors:
     alt: 'IEEE UK & Ireland (UK&I) Young Professionals'
 ---
 
-The IEEE Subsea Innovation Technologies Workshop will be held in Aberdeen, Scotland, on June 7, 2024. 
+The 2nd IEEE Subsea Innovation Technologies Workshop will be held in Aberdeen, Scotland, between 23rd and 24th January, 2026. 
 
 IEEE UK & Ireland (UK&I) Young Professionals is collaborating with IEEE Oceanic Engineering Society to organise this workshop.
 
@@ -27,22 +26,15 @@ IEEE UK & Ireland (UK&I) Young Professionals is collaborating with IEEE Oceanic 
 
 * **Presentations:** Participants are invited to submit abstracts of their research for oral presentation at the workshop. The submissions will be classified and presented through different tracks. This is not a peer reviewed conference and full paper submission is not required – the idea here is to give participants the opportunity to meet other experts and discuss the work.
 
-  * Authors should submit an abstract (2 pages) for review by 27th May to be considered for an ORAL presentation.
-  * Accepted 2-page abstracts will NOT be published in Xplore nor indexed by other databases.
-  * After reviews, 2-page abstracts could be recommended for POSTER presentations based upon the review scores.
-
-* **Poster Session:** Participants are invited to submit abstracts of their research for poster presentation at the workshop.
-  * Authors should submit an abstract (1 page) for review by 27th May to be considered for a POSTER presentation.
-  * Accepted 1-page abstracts will NOT be published in Xplore nor indexed by other databases.
-
-## SUBMIT YOUR ABSTRACT
+<!--## SUBMIT YOUR ABSTRACT
 
 Abstract submission is through Microsoft CMT. Submit your abstract [here](https://cmt3.research.microsoft.com/IEEESITW2024/).
 
 ## REGISTRATION
 
-*Non presenting participants are also invited to [register](https://events.vtools.ieee.org/event/register/352302/). **Registration is required in order to receive joining instructions.***
+*Non presenting participants are also invited to [register](https://events.vtools.ieee.org/event/register/352302/). **Registration is required in order to receive joining instructions.***-->
 
 <figure>
-	<img src="/assets/images/2024_isitmw/IEEE_Flyer_SITAM1.jpg">
+	<img src="/assets/images/2026_isitmw/2nd_IEEE_SITW_26.jpg">
 </figure>
+
