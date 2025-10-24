@@ -1,7 +1,7 @@
 ---
 title: 'Digital Health Conference, Dublin 2023'
 date: 2023-02-28 20:13
-category: upcoming-events
+category: previous-events
 tags:
   - Dublin
   - conference
