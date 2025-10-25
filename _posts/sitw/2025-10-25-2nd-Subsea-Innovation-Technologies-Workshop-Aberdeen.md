@@ -8,7 +8,7 @@ tags:
   - conference
 sidebar:
   - text: '[REGISTER](){: .btn .btn--success}'
-    nav: 'sitw_sidebar_2024'
+    nav: 'sitw_sidebar_2026'
 sponsors:
   - url: https://ieeeukiyp.org/
     image_path: /assets/images/IEEE_UK-Ireland_YP_Logo_RGB_Horz-1.png
@@ -37,5 +37,6 @@ Abstract submission is through Microsoft CMT. Submit your abstract [here](https:
 <figure>
 	<img src="/assets/images/2026_isitmw/2nd_IEEE_SITW_26.jpeg">
 </figure>
+
 
 
