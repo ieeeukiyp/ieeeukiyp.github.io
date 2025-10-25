@@ -13,20 +13,13 @@ sponsors:
     alt: 'IEEE UK & Ireland (UK&I) Young Professionals'
 ---
 
-The IEEE Subsea Innovation Technologies Workshop will be held in Aberdeen, Scotland, between 23rd and 24th January, 2026.
+The 2nd IEEE Subsea Innovation Technologies Workshop will be held in Aberdeen, Scotland, between 23rd and 24th January, 2026.
 
 IEEE UK & Ireland (UK&I) Young Professionals is collaborating with IEEE Oceanic Engineering Society to organise this workshop.
 
 The event committee for this workshop includes:
 - Dr Nazila Fough (Robert Gordon University, IEEE UK & Ireland Young Professionals Past Chair)
-<!-- - Prof Radhakrishna Prabhu (IEEE UKI Oceanic Engineering Chair)
-- Dr Rosslyn Shank (Robert Gordon University)
-- Dr Nauman Baig (Robert Gordon University) 
-- Dr Adrian Rendon Nava (Robert Gordon University)
-- Dr Zonghua Liu (Robert Gordon University)
-- Dr Somasundar Kannan (Robert Gordon University)
-- Dr Faisal M. Shah (Robert Gordon University)
-- Dr Opeyemi Ajibola (IEEE UK & Ireland Young Professionals Webmaster) -->
+
 
 
 
