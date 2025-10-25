@@ -6,7 +6,7 @@ categories: support
 tags:
 sidebar:
   - text: '[REGISTER](){: .btn .btn--success}'
-    nav: 'sitw_sidebar_2024'
+    nav: 'sitw_sidebar_2026'
 sponsors:
   - url: https://ieeeukiyp.org/
     image_path: /assets/images/IEEE_UK-Ireland_YP_Logo_RGB_Horz-1.png
@@ -27,6 +27,7 @@ The event committee for this workshop includes:
 - Dr Somasundar Kannan (Robert Gordon University)
 - Dr Faisal M. Shah (Robert Gordon University)
 - Dr Opeyemi Ajibola (IEEE UK & Ireland Young Professionals Webmaster) -->
+
 
 
 
