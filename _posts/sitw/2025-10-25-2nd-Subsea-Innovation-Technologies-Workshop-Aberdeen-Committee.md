@@ -1,7 +1,7 @@
 ---
-title: 'IEEE Subsea Innovation Technologies Workshop - Committee'
+title: '2nd IEEE Subsea Innovation Technologies Workshop - Committee'
 date: 2025-10-25 00:51
-permalink: /SITW2024/committee/
+permalink: /SITW2026/committee/
 categories: support
 tags:
 sidebar:
@@ -27,6 +27,7 @@ The event committee for this workshop includes:
 - Dr Somasundar Kannan (Robert Gordon University)
 - Dr Faisal M. Shah (Robert Gordon University)
 - Dr Opeyemi Ajibola (IEEE UK & Ireland Young Professionals Webmaster) -->
+
 
 
 
