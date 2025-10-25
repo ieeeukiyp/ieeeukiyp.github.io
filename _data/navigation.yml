@@ -61,3 +61,10 @@ sitw_sidebar_2024:
     url: /SITW2024/
   - title: 'Event Committee'
     url: /SITW2024/committee/
+
+sitw_sidebar_2026:
+  - title: 'Workshop'
+    url: /SITW2026/
+  - title: 'Event Committee'
+    url: /SITW2026/committee/
+
