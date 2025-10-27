@@ -27,11 +27,11 @@ IEEE UK & Ireland (UK&I) Young Professionals is collaborating with IEEE Oceanic 
 
 * **Presentations:** Participants are invited to submit abstracts of their research for oral presentation at the workshop. The submissions will be classified and presented through different tracks. This is not a peer reviewed conference and full paper submission is not required – the idea here is to give participants the opportunity to meet other experts and discuss the work.
 
-<!--## SUBMIT YOUR ABSTRACT
+## SUBMIT YOUR ABSTRACT
 
-Abstract submission is through Microsoft CMT. Submit your abstract [here](https://cmt3.research.microsoft.com/IEEESITW2024/).
+Abstract submission is through Microsoft CMT. Submit your abstract [here](https://cmt3.research.microsoft.com/SITW2026).
 
-## REGISTRATION
+<!--## REGISTRATION
 
 *Non presenting participants are also invited to [register](https://events.vtools.ieee.org/event/register/352302/). **Registration is required in order to receive joining instructions.***-->
 
@@ -41,6 +41,7 @@ Abstract submission is through Microsoft CMT. Submit your abstract [here](https:
 
 ## Acknowledgments
 * The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
+
 
 
 
