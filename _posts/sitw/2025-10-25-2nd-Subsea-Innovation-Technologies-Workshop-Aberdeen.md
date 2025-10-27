@@ -8,6 +8,7 @@ tags:
   - conference
 sidebar:
   - text: '[REGISTER](){: .btn .btn--success}'
+  - text: '[SUBMIT ABSTRACT](https://cmt3.research.microsoft.com/SITW2026){: .btn .btn--success}'
     nav: 'sitw_sidebar_2026'
 sponsors:
   - url: https://ieeeukiyp.org/
@@ -40,6 +41,7 @@ Abstract submission is through Microsoft CMT. Submit your abstract [here](https:
 
 ## Acknowledgments
 * The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
+
 
 
 
