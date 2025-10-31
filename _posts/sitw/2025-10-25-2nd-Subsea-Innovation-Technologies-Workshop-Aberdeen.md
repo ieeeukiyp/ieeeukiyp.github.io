@@ -7,7 +7,7 @@ tags:
   - Aberdeen
   - conference
 sidebar:
-  - text: '[REGISTER](){: .btn .btn--success}'
+  - text: '[REGISTER](https://events.vtools.ieee.org/event/register/510720){: .btn .btn--success}'
   - text: '[SUBMIT ABSTRACT](https://cmt3.research.microsoft.com/SITW2026){: .btn .btn--success}'
     nav: 'sitw_sidebar_2026'
 sponsors:
@@ -31,16 +31,17 @@ IEEE UK & Ireland (UK&I) Young Professionals is collaborating with IEEE Oceanic 
 
 Abstract submission is through Microsoft CMT. Submit your abstract [here](https://cmt3.research.microsoft.com/SITW2026).
 
-<!--## REGISTRATION
+## REGISTRATION
 
-*Non presenting participants are also invited to [register](https://events.vtools.ieee.org/event/register/352302/). **Registration is required in order to receive joining instructions.***-->
+*Non presenting participants are also invited to [register](https://events.vtools.ieee.org/event/register/510720). **Registration is required in order to receive joining instructions.***
 
 <figure>
-	<img src="/assets/images/2026_isitmw/2nd_IEEE_SITW_26.jpeg">
+	<img src="/assets/images/2026_isitmw/2nd_IEEE_SITW_26v2.jpeg">
 </figure>
 
 ## Acknowledgments
 * The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
+
 
 
 
