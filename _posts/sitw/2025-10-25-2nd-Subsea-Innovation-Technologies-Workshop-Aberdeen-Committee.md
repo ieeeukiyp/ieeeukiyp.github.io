@@ -5,7 +5,7 @@ permalink: /SITW2026/committee/
 categories: support
 tags:
 sidebar:
-  - text: '[REGISTER](){: .btn .btn--success}'
+  - text: '[REGISTER](https://events.vtools.ieee.org/event/register/510720){: .btn .btn--success}'
   - text: '[SUBMIT ABSTRACT](https://cmt3.research.microsoft.com/SITW2026){: .btn .btn--success}'
     nav: 'sitw_sidebar_2026'
 sponsors:
@@ -20,6 +20,7 @@ IEEE UK & Ireland (UK&I) Young Professionals is collaborating with IEEE Oceanic 
 
 The event committee for this workshop includes:
 - Dr Nazila Fough (Robert Gordon University, IEEE UK & Ireland Young Professionals Past Chair)
+
 
 
 
