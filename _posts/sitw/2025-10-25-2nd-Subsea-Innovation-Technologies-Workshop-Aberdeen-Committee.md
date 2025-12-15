@@ -20,6 +20,16 @@ IEEE UK & Ireland (UK&I) Young Professionals is collaborating with IEEE Oceanic 
 
 The event committee for this workshop includes:
 - Dr Nazila Fough (Robert Gordon University, IEEE UK & Ireland Young Professionals Past Chair)
+- Prof Radhakrishna Prabhu, Robert Gordon University
+- Dr Zonghua Liu, Robert Gordon University
+- Dr Beenish Ayaz, Royal Holloway, University of London
+- Dr Rose Norman, Newcastle University
+- Prof John Watson, University of Aberdeen
+- Brian Horsburgh
+- Dr Wai Keung Fung, Cardiff Metropolitan University
+- Dr Masood Ur Rehman, University of Glasgow
+- Dr Opeyemi Ajibola
+
 
 
 
