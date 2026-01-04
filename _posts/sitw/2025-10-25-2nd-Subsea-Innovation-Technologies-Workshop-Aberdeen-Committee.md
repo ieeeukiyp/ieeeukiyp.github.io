@@ -19,16 +19,18 @@ The 2nd IEEE Subsea Innovation Technologies Workshop will be held in Aberdeen, S
 IEEE UK & Ireland (UK&I) Young Professionals is collaborating with IEEE Oceanic Engineering Society to organise this workshop.
 
 The event committee for this workshop includes:
-- Dr Nazila Fough (Robert Gordon University, IEEE UK & Ireland Young Professionals Past Chair)
-- Prof Radhakrishna Prabhu, Robert Gordon University
-- Dr Zonghua Liu, Robert Gordon University
-- Dr Beenish Ayaz, Royal Holloway, University of London
+
+- Dr Nazila Fough , University of Glasgow (IEEE OES Chair)
+- Dr Masood Ur Rehman, University of Glasgow (IEEE UK & Ireland Young Professionals  Chair)
+- Prof Radhakrishna Prabhu, Robert Gordon University (IEEE OES Past Chair)
+- Dr Beenish Ayaz, Royal Holloway, University of London (IEEE OES Vice Chair)
+- Dr Zonghua Liu, Robert Gordon University ( IEEE OES Secretary) 
 - Dr Rose Norman, Newcastle University
 - Prof John Watson, University of Aberdeen
 - Brian Horsburgh
 - Dr Wai Keung Fung, Cardiff Metropolitan University
-- Dr Masood Ur Rehman, University of Glasgow
-- Dr Opeyemi Ajibola
+- Dr Opeyemi Ajibola (Webmaseter)
+
 
 
 
