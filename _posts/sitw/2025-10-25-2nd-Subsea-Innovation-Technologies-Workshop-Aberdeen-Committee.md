@@ -24,12 +24,13 @@ The event committee for this workshop includes:
 - Dr Masood Ur Rehman, University of Glasgow (IEEE UK & Ireland Young Professionals  Chair)
 - Prof Radhakrishna Prabhu, Robert Gordon University (IEEE OES Past Chair)
 - Dr Beenish Ayaz, Royal Holloway, University of London (IEEE OES Vice Chair)
-- Dr Zonghua Liu, Robert Gordon University ( IEEE OES Secretary) 
+- Dr Zonghua Liu, Robert Gordon University (IEEE OES Secretary) 
 - Dr Rose Norman, Newcastle University
 - Prof John Watson, University of Aberdeen
 - Brian Horsburgh
 - Dr Wai Keung Fung, Cardiff Metropolitan University
 - Dr Opeyemi Ajibola (Webmaseter)
+
 
 
 
