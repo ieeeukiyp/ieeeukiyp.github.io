@@ -36,11 +36,12 @@ Abstract submission is through Microsoft CMT. Submit your abstract [here](https:
 *Non presenting participants are also invited to [register](https://events.vtools.ieee.org/event/register/510720). **Registration is required in order to receive joining instructions.***
 
 <figure>
-	<img src="/assets/images/2026_isitmw/2nd_IEEE_SITW_26v3.jpeg">
+	<img src="/assets/images/2026_isitmw/2nd_IEEE_SITW_26v4.jpg">
 </figure>
 
 ## Acknowledgments
 * The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
+
 
 
 
