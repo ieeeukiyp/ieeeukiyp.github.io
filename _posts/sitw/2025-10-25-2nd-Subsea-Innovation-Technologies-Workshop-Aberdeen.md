@@ -20,7 +20,7 @@ The 2nd IEEE Subsea Innovation Technologies Workshop will be held in Aberdeen, S
 
 IEEE UK & Ireland (UK&I) Young Professionals is collaborating with IEEE Oceanic Engineering Society to organise this workshop.
 
-## Workshop Features
+## WORKSHOP FEATURES
 **The event focuses on keynote, panel discussion, workshop, research presentations, awards, and a networking event with Industry participation.**
 
 * **Keynote and Workshop:** Learn from notable experts as they deliver keynote talks on various subsea technologies topics.
@@ -36,7 +36,7 @@ Abstract submission is through Microsoft CMT. Submit your abstract [here](https:
 *Non presenting participants are also invited to [register](https://events.vtools.ieee.org/event/register/510720). **Registration is required in order to receive joining instructions.***
 
 <figure>
-	<img src="/assets/images/2026_isitmw/2nd_IEEE_SITW_FLYER.jpg">
+	<img src="/assets/images/2026_isitmw/2nd_IEEE_SITW_26_FLYER.jpg">
 </figure>
 
 ## WORKSHOP SCHEDULE AND BOOKLET
@@ -50,6 +50,7 @@ View Workshop Booklet [here](https://drive.google.com/file/d/1JGqQf6lAlbbGlO-n3u
 
 ## ACKNOWLEDGEMENTS
 * The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
+
 
 
 
